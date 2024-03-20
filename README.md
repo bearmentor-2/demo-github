@@ -1,10 +1,4 @@
-# M Haidar Hanif Website
+# Demo GitHub
 
-This is personal website of M Haidar Hanif.
-
-See it live at <https://mhaidarhanif.com>
-
-## Preview
-
-(Preview)
+This is just a demo.
 
